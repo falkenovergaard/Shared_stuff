@@ -1,5 +1,5 @@
 This is a branch
-Thursday = Nexus 
+Thursday = Nexus. jadak 
 TOXIC file
 ^B
 
